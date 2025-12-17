@@ -1,0 +1,25 @@
+{
+  "name": "foam-central-pack",
+  "displayName": "Foam Central Pack",
+  "description": "Extension pack for Foam, Foam Central, and related tools.",
+  "version": "0.0.1",
+  "publisher": "byroger",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+
+  // This is the important bit: list everything you want installed together
+  "extensionPack": [
+    "foam.foam-vscode",
+    "byroger.foam-central",
+
+    // Suggested helpers – tweak as you like:
+    "yzhang.markdown-all-in-one",          // better markdown editing
+    "streetsidesoftware.code-spell-checker", // spell check
+    "eamodio.gitlens",                     // Git history / blame
+    "bierner.markdown-preview-github-styles" // nicer markdown preview
+  ]
+}
