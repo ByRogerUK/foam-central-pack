@@ -4,9 +4,16 @@
   "description": "Extension pack for Foam, Foam Central, and related tools.",
   "version": "0.0.1",
   "publisher": "byroger",
+  "repository": "https://github.com/ByRogerUK/foam-central-pack",
   "engines": {
     "vscode": "^1.90.0"
   },
+    "files": [
+    "package.json",
+    "LICENSE",
+    "README.md",
+    "CHANGELOG.md"
+  ],
   "categories": [
     "Extension Packs"
   ],
