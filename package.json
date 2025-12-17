@@ -11,15 +11,18 @@
     "Extension Packs"
   ],
 
-  // This is the important bit: list everything you want installed together
   "extensionPack": [
     "foam.foam-vscode",
     "byroger.foam-central",
-
-    // Suggested helpers – tweak as you like:
-    "yzhang.markdown-all-in-one",          // better markdown editing
-    "streetsidesoftware.code-spell-checker", // spell check
-    "eamodio.gitlens",                     // Git history / blame
-    "bierner.markdown-preview-github-styles" // nicer markdown preview
+    "yzhang.markdown-all-in-one",
+    "esbenp.prettier-vscode",
+    "pomdtr.excalidraw-editor",
+    "streetsidesoftware.code-spell-checker",
+    "jebbs.markdown-extended",
+    "bierner.markdown-footnotes",
+    "eamodio.gitlens",
+    "bierner.markdown-preview-github-styles",
+    "Gruntfuggly.todo-tree",
+    "sugatoray.vscode-markdown-extension-pack"
   ]
 }
