@@ -2,7 +2,7 @@
   "name": "foam-central-pack",
   "displayName": "Foam Central Pack",
   "description": "Extension pack for Foam, Foam Central, and related tools.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "byroger",
   "repository": "https://github.com/ByRogerUK/foam-central-pack",
   "engines": {
